@@ -1,7 +1,7 @@
 name: dulcinea
 favicon: null
-layout_spectrum: 0.5729668135754764
-typography_spectrum: 0.5882900396827608
+layout_spectrum: 0.4964
+typography_spectrum: 0.1187
 title: Dulcinea
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.9786160951480269
-  lightness: 0.4492525104433298
-  saturation: 0.23352271621115506
-  rhythmicContrast: 0.4983616485260427
+    - '#fffeff'
+    - '#fadae5'
+    - '#ed91ac'
+    - '#e4a1b8'
+    - '#f4bdd0'
+  brandStrength: 0.875
+  lightness: 0.4375
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
